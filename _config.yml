@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Han Wang"
 title_separator          : "-"
 name                     : &name "Han Wang"
-description              : &description "A student"
+description              : &description "personal description"
 url                      : https://hanwang-sec.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hanwang-sec/hanwang-sec.github.io"
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Han Wang"
-  avatar           : "profile.png"
-  bio              : "A student"
-  location         : "Wuhan"
+  avatar           : "me.png"
+  bio              : "Second year master student at Wuhan University"
+  location         : "China"
   employer         :
-  pubmed           : 
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://scholar.google.com/citations?hl=en&user-ChfZGpcAAAAJ"
-  email            :
+  email            : ""
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/hanwang-sec"
+  github           : "hanwang-sec"
   google_plus      :
   keybase          :
   instagram        :
@@ -210,15 +210,14 @@ defaults:
       layout: single
       author_profile: true
   # _teaching
-  #- scope:
-  #    path: ""
-  #    type: teaching
-  #  values:
-  #    layout: single
-  #    author_profile: true
-  #    share: true
-  #    comments: true
-  
+  - scope:
+      path: ""
+      type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _publications
   - scope:
       path: ""
@@ -227,24 +226,24 @@ defaults:
       layout: single
       author_profile: true
       share: true
-  #    comments: true
+      comments: true
   # _portfolio
-  #- scope:
-  #    path: ""
-  #    type: portfolio
-  #  values:
-  #    layout: single
-  #    author_profile: true
-  #    share: true
-  #    comment: true
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
   # _talks
-  #- scope:
-  #    path: ""
-  #    type: talks
-  #  values:
-  #    layout: talk
-  #    author_profile: true
-  #    share: true
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
 
 # Sass/SCSS
 sass:
