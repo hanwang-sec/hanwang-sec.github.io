@@ -12,6 +12,31 @@ author_profile: true
 <div style="display: flex; flex-direction: column; gap: 1.5rem;">
 
   <!-- 第一篇论文 -->
+
+  <div>
+    <p style="color: grey; font-size: 0.8em; margin: 0;">
+      [TACO'25] Quancheng Wang, Ming Tang<sup>&#8224;</sup>, Ke Xu, <strong>Han Wang</strong>
+    </p>
+    <p style="font-weight: bold; font-size: 1em; margin: 0;">
+      Unveiling and Evaluating Vulnerabilities in Branch Predictors via a Three-Step Modeling Methodology
+    </p>
+    <p style="font-style: italic; font-size: 0.8em; margin: 0;">
+      ACM Transactions on Architecture and Code Optimization, 2025.01
+    </p>
+  </div>
+
+  <div>
+    <p style="color: grey; font-size: 0.8em; margin: 0;">
+      [TC'24] Ke Xu, Ming Tang<sup>&#8224;</sup>, Quancheng Wang, <strong>Han Wang</strong>
+    </p>
+    <p style="font-weight: bold; font-size: 1em; margin: 0;">
+      Microarchitectural Attacks and Mitigations on Retire Resources in Modern Processors
+    </p>
+    <p style="font-style: italic; font-size: 0.8em; margin: 0;">
+      IEEE Transactions on Computers, 2024.12
+    </p>
+  </div>
+
   <div>
     <p style="color: grey; font-size: 0.8em; margin: 0;">
       [DATE'24] <strong>Han Wang</strong>, Ming Tang<sup>&#8224;</sup>, Ke Xu, Quancheng Wang
