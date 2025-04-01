@@ -27,31 +27,28 @@ My research interests include CPU microarchitecture reverse engineering and the 
 
 ## <i class="fa fa-graduation-cap" aria-hidden="true"></i> Selected Publications ##
 
-<table style="border: none; border-collapse: collapse;" border="0">
-
-<tr style="border-collapse: separate; border-spacing:30em;">
-  <td style="border-collapse: collapse; border: none;">
-    <img src="../images/amdf4.png" width="650" />
-  </td>
-  <td style="border-collapse: collapse; border: none;">
-    <b>Han Wang</b>, Ming Tang, Quancheng Wang, Ke Xu, Yinqian Zhang.
-    "ZenLeak: Practical Last-Level Cache Side-Channel Attacks on AMD Zen Processors".
-    in <b>DAC 2025</b>.<br>
-  </td>
-</tr>
-
-<tr style="border-collapse: separate; border-spacing:30em;">
-  <td style="border-collapse: collapse; border: none;">
-    <img src="../images/CBCC.png" width="650" />
-  </td>
-  <td style="border-collapse: collapse; border: none;">
-    <b>Han Wang</b>, Ming Tang, Ke Xu, Quancheng Wang.
-    "Cache Bandwidth Contention Leaks Secrets".
-    in <b>DATE 2024</b>.<br>
-    <img src="../images/pdf_icon.png" width="20" height="20" hspace="5">
-    <span><a href="https://ieeexplore.ieee.org/abstract/document/10546529">PDF</a></span><br>
-  </td>
-</tr>
-  
+<table style="width: 100%; border-collapse: collapse;" border="0">
+  <tr>
+    <td style="width: 50%; vertical-align: top; padding-right: 20px;">
+      <img src="../images/amdf4.png" style="max-width: 100%;" alt="DAC Publication Image"/>
+    </td>
+    <td style="width: 50%; vertical-align: top;">
+      <b>Han Wang</b>, Ming Tang, Quancheng Wang, Ke Xu, Yinqian Zhang.<br>
+      "ZenLeak: Practical Last-Level Cache Side-Channel Attacks on AMD Zen Processors".<br>
+      in <b>DAC 2025</b>.<br>
+    </td>
+  </tr>
+  <tr>
+    <td style="width: 50%; vertical-align: top; padding-right: 20px;">
+      <img src="../images/CBCC.png" style="max-width: 100%;" alt="DATE Publication Image"/>
+    </td>
+    <td style="width: 50%; vertical-align: top;">
+      <b>Han Wang</b>, Ming Tang, Ke Xu, Quancheng Wang.<br>
+      "Cache Bandwidth Contention Leaks Secrets".<br>
+      in <b>DATE 2024</b>.<br>
+      <img src="../images/pdf_icon.png" width="20" height="20" hspace="5" alt="PDF Icon">
+      <span><a href="https://ieeexplore.ieee.org/abstract/document/10546529">PDF</a></span>
+    </td>
+  </tr>
 </table>
 
