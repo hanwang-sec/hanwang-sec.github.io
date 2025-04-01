@@ -15,7 +15,20 @@ author_profile: true
 
   <div>
     <p style="color: grey; font-size: 0.8em; margin: 0;">
-      [TACO'25] Quancheng Wang, Ming Tang<sup>&#8224;</sup>, Ke Xu, <strong>Han Wang</strong>
+      [DAC'25] <strong>Han Wang</strong>, Ming Tang<sup>&#8224;</sup>, Quancheng Wang, Ke Xu, Yinqian Zhang
+    </p>
+    <p style="font-weight: bold; font-size: 1em; margin: 0;">
+      ZenLeak: Practical Last-level Cache Side-Channel Attacks on AMD Zen Processors
+    </p>
+    <p style="font-style: italic; font-size: 0.8em; margin: 0;">
+      Design Automation Conference, San Francisco, 2025.06
+    </p>
+  </div>
+
+
+  <div>
+    <p style="color: grey; font-size: 0.8em; margin: 0;">
+      [TACO] Quancheng Wang, Ming Tang<sup>&#8224;</sup>, Ke Xu, <strong>Han Wang</strong>
     </p>
     <p style="font-weight: bold; font-size: 1em; margin: 0;">
       Unveiling and Evaluating Vulnerabilities in Branch Predictors via a Three-Step Modeling Methodology
@@ -27,7 +40,7 @@ author_profile: true
 
   <div>
     <p style="color: grey; font-size: 0.8em; margin: 0;">
-      [TC'24] Ke Xu, Ming Tang<sup>&#8224;</sup>, Quancheng Wang, <strong>Han Wang</strong>
+      [TC] Ke Xu, Ming Tang<sup>&#8224;</sup>, Quancheng Wang, <strong>Han Wang</strong>
     </p>
     <p style="font-weight: bold; font-size: 1em; margin: 0;">
       Microarchitectural Attacks and Mitigations on Retire Resources in Modern Processors

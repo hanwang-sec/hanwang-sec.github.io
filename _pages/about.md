@@ -31,6 +31,17 @@ My research interests include CPU microarchitecture reverse engineering and the 
 
 <tr style="border-collapse: separate; border-spacing:30em;">
   <td style="border-collapse: collapse; border: none;">
+    <img src="../images/amdf4.png" width="650" />
+  </td>
+  <td style="border-collapse: collapse; border: none;">
+    <b>Han Wang</b>, Ming Tang, Quancheng Wang, Ke Xu, Yinqian Zhang.
+    "ZenLeak: Practical Last-Level Cache Side-Channel Attacks on AMD Zen Processors".
+    in <b>DAC 2025</b>.<br>
+  </td>
+</tr>
+
+<tr style="border-collapse: separate; border-spacing:30em;">
+  <td style="border-collapse: collapse; border: none;">
     <img src="../images/CBCC.png" width="650" />
   </td>
   <td style="border-collapse: collapse; border: none;">
