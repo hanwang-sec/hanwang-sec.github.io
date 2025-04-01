@@ -27,22 +27,22 @@ My research interests include CPU microarchitecture reverse engineering and the 
 
 ## <i class="fa fa-graduation-cap" aria-hidden="true"></i> Selected Publications ##
 
-<table style="width: 100%; border-collapse: collapse;" border="0">
+<table style="width: 100%; border-collapse: collapse; border: none;" border="0">
   <tr>
-    <td style="width: 50%; vertical-align: top; padding-right: 20px;">
+    <td style="width: 50%; vertical-align: top; padding-right: 20px; border: none;">
       <img src="../images/amdf4.png" style="max-width: 100%;" alt="DAC Publication Image"/>
     </td>
-    <td style="width: 50%; vertical-align: top;">
+    <td style="width: 50%; vertical-align: top; border: none;">
       <b>Han Wang</b>, Ming Tang, Quancheng Wang, Ke Xu, Yinqian Zhang.<br>
       "ZenLeak: Practical Last-Level Cache Side-Channel Attacks on AMD Zen Processors".<br>
       in <b>DAC 2025</b>.<br>
     </td>
   </tr>
   <tr>
-    <td style="width: 50%; vertical-align: top; padding-right: 20px;">
+    <td style="width: 50%; vertical-align: top; padding-right: 20px; border: none;">
       <img src="../images/CBCC.png" style="max-width: 100%;" alt="DATE Publication Image"/>
     </td>
-    <td style="width: 50%; vertical-align: top;">
+    <td style="width: 50%; vertical-align: top; border: none;">
       <b>Han Wang</b>, Ming Tang, Ke Xu, Quancheng Wang.<br>
       "Cache Bandwidth Contention Leaks Secrets".<br>
       in <b>DATE 2024</b>.<br>
