@@ -274,7 +274,7 @@ GEM
       concurrent-ruby (~> 1.0)
     unicode-display_width (1.8.0)
     uri (1.0.2)
-    webrick (1.9.1)
+    webrick (1.8.2)
 
 PLATFORMS
   arm64-darwin-24
@@ -285,7 +285,7 @@ DEPENDENCIES
   hawkins
   jekyll-feed
   jekyll-sitemap
-  webrick (~> 1.8)
+  webrick (~> 1.8.1)
 
 BUNDLED WITH
    2.5.23

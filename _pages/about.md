@@ -19,6 +19,11 @@ My research interests include CPU microarchitecture reverse engineering and the 
 <ul style="width: auto; height: 100px; overflow: auto">
 
 <!-- <li> <b>2023/09</b>: Content. </li> -->
+
+<li> <b>2025/09</b>: Joined <a herf="https://yinqian.org/">Prof. Zhang's</a> lab at SUSTech. </li>
+
+<li> <b>2025/06</b>: Graduated with a master's degree from the School of Cyber Science and Engineering, Wuhan University. </li>
+
 <li> <b>2022/06</b>: Graduated with a bachelor's degree from the School of Cyber Science and Engineering, Wuhan University. </li>
 
 <li> <b>2021/11</b>: Joined <a herf="https://cse.whu.edu.cn/info/1104/1798.htm">Prof. Tang's</a> lab at Wuhan University. </li>
