@@ -15,6 +15,18 @@ author_profile: true
 
   <div>
     <p style="color: grey; font-size: 0.8em; margin: 0;">
+      [AsiaCCS'25] Quancheng Wang, Ming Tang<sup>&#8224;</sup>, Ke Xu, <strong>Han Wang</strong>
+    </p>
+    <p style="font-weight: bold; font-size: 1em; margin: 0;">
+      BranchGauge: Modeling and Quantifying Side-Channel Leakage in Randomization-Based Secure Branch Predictors
+    </p>
+    <p style="font-style: italic; font-size: 0.8em; margin: 0;">
+      ASIA Conference on Computer and Communications Security, Hanoi, 2025.09
+    </p>
+  </div>
+
+  <div>
+    <p style="color: grey; font-size: 0.8em; margin: 0;">
       [DAC'25] <strong>Han Wang</strong>, Ming Tang<sup>&#8224;</sup>, Quancheng Wang, Ke Xu, Yinqian Zhang
     </p>
     <p style="font-weight: bold; font-size: 1em; margin: 0;">
