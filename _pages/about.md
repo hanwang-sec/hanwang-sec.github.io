@@ -10,7 +10,7 @@ redirect_from:
 
 ## <i class="fa fa-id-card" aria-hidden="true"></i> About Me ##
 
-I am Han Wang, a Ph.D. student at the Southern University of Science and Technology (SUSTech), advised by Prof. Yinqian Zhang. I received my M.S. (advised by Prof. Ming Tang) and B.S. from the School of Cyber Science and Engineering, Wuhan University.
+I am Han Wang, a Ph.D. student at the Southern University of Science and Technology (SUSTech), advised by Prof. Yinqian Zhang. I received my M.Eng. (advised by Prof. Ming Tang) and B.Eng. from the School of Cyber Science and Engineering, Wuhan University.
 
 My research interests include CPU microarchitecture reverse engineering and the exploration of microarchitectural side-channel vulnerabilities. Specifically, I focus on analyzing the intricate behavior of modern processors, understanding their architectural design choices, and identifying potential security flaws.
 

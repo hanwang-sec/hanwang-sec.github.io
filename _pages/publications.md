@@ -67,7 +67,7 @@ author_profile: true
       [DATE'24] <strong>Han Wang</strong>, Ming Tang<sup>&#8224;</sup>, Ke Xu, Quancheng Wang
     </p>
     <p style="font-weight: bold; font-size: 1em; margin: 0;">
-      Cache Bandwidth Leaks Secrets
+      Cache Bandwidth Contention Leaks Secrets
     </p>
     <p style="font-style: italic; font-size: 0.8em; margin: 0;">
       Design, Automation and Test in Europe Conference, 2024.03
