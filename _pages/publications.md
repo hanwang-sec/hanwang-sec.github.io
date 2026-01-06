@@ -21,7 +21,7 @@ author_profile: true
       BranchGauge: Modeling and Quantifying Side-Channel Leakage in Randomization-Based Secure Branch Predictors
     </p>
     <p style="font-style: italic; font-size: 0.8em; margin: 0;">
-      ASIA Conference on Computer and Communications Security, Hanoi, 2025.09
+      ASIA Conference on Computer and Communications Security, 2025.09
     </p>
   </div>
 
@@ -33,7 +33,7 @@ author_profile: true
       ZenLeak: Practical Last-level Cache Side-Channel Attacks on AMD Zen Processors
     </p>
     <p style="font-style: italic; font-size: 0.8em; margin: 0;">
-      Design Automation Conference, San Francisco, 2025.06
+      Design Automation Conference, 2025.06
     </p>
   </div>
 
