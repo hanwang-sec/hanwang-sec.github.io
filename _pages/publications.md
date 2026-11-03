@@ -23,8 +23,11 @@ author_profile: false
       <div>
         <h3>FrontSpec: Uncovering and Characterizing Frontend Memory Predictors on Apple M4 Processors</h3>
         <p class="home-authors"><strong>Han Wang</strong><sup>*</sup>, Yuhao Hu<sup>*</sup>, Yusi Feng, Quancheng Wang, Ke Xu, Tang Ming, Yun Chen, Zhe Wang, Chenggang Wu, Yinqian Zhang<sup>&#8224;</sup></p>
-        <p class="home-publication-detail">ACM Conference on Computer and Communications Security · 2026</p>
-        <p class="home-publication-links"><a href="https://www.sigsac.org/ccs/CCS2026/program/accepted-papers.html" target="_blank" rel="noopener">Paper</a></p>
+        <p class="home-publication-detail">ACM Conference on Computer and Communications Security · 2026.11</p>
+        <p class="home-publication-links">
+          <a href="https://www.sigsac.org/ccs/CCS2026/program/accepted-papers.html" target="_blank" rel="noopener">Paper</a>
+          <a href="https://zenodo.org/records/22670155" target="_blank" rel="noopener">Artifact</a>
+        </p>
       </div>
     </li>
 
@@ -36,6 +39,7 @@ author_profile: false
         <p class="home-publication-detail">35th USENIX Security Symposium (USENIX Security 26) · 2026.08</p>
         <p class="home-publication-links">
           <a href="https://www.usenix.org/conference/usenixsecurity26/presentation/wang-han" target="_blank" rel="noopener">Paper</a>
+          <a href="https://zenodo.org/records/20336892" target="_blank" rel="noopener">Artifact</a>
           <a href="https://www.usenix.org/system/files/usenixsecurity26-wang-han.pdf" target="_blank" rel="noopener">PDF</a>
         </p>
       </div>

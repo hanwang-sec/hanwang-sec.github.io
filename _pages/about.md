@@ -45,19 +45,6 @@ redirect_from:
   <ol class="home-publications">
     <li class="home-publication">
       <div class="home-venue">
-        <span>USENIX Security 2026</span>
-      </div>
-      <div>
-        <h3>Charting the Cache Side-Channel Frontier: A Systematic Study of Eviction Set Construction on Apple Silicon</h3>
-        <p class="home-authors"><strong>Han Wang</strong>, Yakun Wu, Yusi Feng, Yinqian Zhang</p>
-        <p class="home-publication-links">
-          <a href="https://www.usenix.org/conference/usenixsecurity26/presentation/wang-han" target="_blank" rel="noopener">Paper</a>
-        </p>
-      </div>
-    </li>
-
-    <li class="home-publication">
-      <div class="home-venue">
         <span>CCS 2026</span>
       </div>
       <div>
@@ -65,6 +52,21 @@ redirect_from:
         <p class="home-authors"><strong>Han Wang</strong><sup>*</sup>, Yuhao Hu<sup>*</sup>, Yusi Feng, Quancheng Wang, Ke Xu, Tang Ming, Yun Chen, Zhe Wang, Chenggang Wu, Yinqian Zhang</p>
         <p class="home-publication-links">
           <a href="https://www.sigsac.org/ccs/CCS2026/program/accepted-papers.html" target="_blank" rel="noopener">Paper</a>
+          <a href="https://zenodo.org/records/22670155" target="_blank" rel="noopener">Artifact</a>
+        </p>
+      </div>
+    </li>
+
+    <li class="home-publication">
+      <div class="home-venue">
+        <span>USENIX Security 2026</span>
+      </div>
+      <div>
+        <h3>Charting the Cache Side-Channel Frontier: A Systematic Study of Eviction Set Construction on Apple Silicon</h3>
+        <p class="home-authors"><strong>Han Wang</strong>, Yakun Wu, Yusi Feng, Yinqian Zhang</p>
+        <p class="home-publication-links">
+          <a href="https://www.usenix.org/conference/usenixsecurity26/presentation/wang-han" target="_blank" rel="noopener">Paper</a>
+          <a href="https://zenodo.org/records/20336892" target="_blank" rel="noopener">Artifact</a>
         </p>
       </div>
     </li>
