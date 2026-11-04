@@ -49,7 +49,7 @@ redirect_from:
       </div>
       <div>
         <h3>FrontSpec: Uncovering and Characterizing Frontend Memory Predictors on Apple M4 Processors</h3>
-        <p class="home-authors"><strong>Han Wang</strong><sup>*</sup>, Yuhao Hu<sup>*</sup>, Yusi Feng, Quancheng Wang, Ke Xu, Tang Ming, Yun Chen, Zhe Wang, Chenggang Wu, Yinqian Zhang</p>
+        <p class="home-authors"><strong><span class="home-author-underline">Han Wan</span>g</strong><sup>*</sup>, Yuhao Hu<sup>*</sup>, Yusi Feng, Quancheng Wang, Ke Xu, Tang Ming, Yun Chen, Zhe Wang, Chenggang Wu, Yinqian Zhang</p>
         <p class="home-publication-links">
           <a href="https://www.sigsac.org/ccs/CCS2026/program/accepted-papers.html" target="_blank" rel="noopener">Paper</a>
           <a href="https://zenodo.org/records/22670155" target="_blank" rel="noopener">Artifact</a>
@@ -63,7 +63,7 @@ redirect_from:
       </div>
       <div>
         <h3>Charting the Cache Side-Channel Frontier: A Systematic Study of Eviction Set Construction on Apple Silicon</h3>
-        <p class="home-authors"><strong>Han Wang</strong>, Yakun Wu, Yusi Feng, Yinqian Zhang</p>
+        <p class="home-authors"><strong><span class="home-author-underline">Han Wan</span>g</strong>, Yakun Wu, Yusi Feng, Yinqian Zhang</p>
         <p class="home-publication-links">
           <a href="https://www.usenix.org/conference/usenixsecurity26/presentation/wang-han" target="_blank" rel="noopener">Paper</a>
           <a href="https://zenodo.org/records/20336892" target="_blank" rel="noopener">Artifact</a>
@@ -78,7 +78,7 @@ redirect_from:
       </div>
       <div>
         <h3>ZenLeak: Practical Last-Level Cache Side-Channel Attacks on AMD Zen Processors</h3>
-        <p class="home-authors"><strong>Han Wang</strong>, Ming Tang, Quancheng Wang, Ke Xu, Yinqian Zhang</p>
+        <p class="home-authors"><strong><span class="home-author-underline">Han Wan</span>g</strong>, Ming Tang, Quancheng Wang, Ke Xu, Yinqian Zhang</p>
         <p class="home-publication-links">
           <a href="https://yinqian.org/papers/dac25b.pdf" target="_blank" rel="noopener">Paper</a>
         </p>
@@ -91,7 +91,7 @@ redirect_from:
       </div>
       <div>
         <h3>Cache Bandwidth Contention Leaks Secrets</h3>
-        <p class="home-authors"><strong>Han Wang</strong>, Ming Tang, Ke Xu, Quancheng Wang</p>
+        <p class="home-authors"><strong><span class="home-author-underline">Han Wan</span>g</strong>, Ming Tang, Ke Xu, Quancheng Wang</p>
         <p class="home-publication-links">
           <a href="https://ieeexplore.ieee.org/abstract/document/10546529" target="_blank" rel="noopener">Paper</a>
         </p>
