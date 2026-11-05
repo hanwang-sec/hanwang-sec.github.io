@@ -20,6 +20,7 @@ redirect_from:
       </div>
       <div class="home-actions">
         <a class="home-button home-button--solid" href="{{ site.author.googlescholar }}" target="_blank" rel="noopener">Google Scholar <span aria-hidden="true">↗</span></a>
+        <a class="home-button" href="mailto:han.wang.sec@gmail.com" title="han.wang.sec@gmail.com">Email <span aria-hidden="true">↗</span></a>
         <a class="home-button" href="https://github.com/{{ site.author.github }}" target="_blank" rel="noopener">GitHub <span aria-hidden="true">↗</span></a>
         <a class="home-button" href="{{ site.baseurl }}/publications/">All publications <span aria-hidden="true">→</span></a>
       </div>
